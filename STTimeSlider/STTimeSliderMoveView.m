@@ -34,7 +34,6 @@
     [_movePath addClip];
     CGContextDrawLinearGradient(context, _delegate.gradientForeground, _startPoint, _endPoint, 0);
     CGContextRestoreGState(context);
-
 }
 
 @end
