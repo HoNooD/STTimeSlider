@@ -16,6 +16,5 @@
 
 @property (nonatomic, assign) CGPoint startPoint;
 @property (nonatomic, assign) CGPoint endPoint;
-@property (nonatomic, assign) CGContextRef context;
 
 @end
